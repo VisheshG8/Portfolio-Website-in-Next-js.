@@ -11,7 +11,7 @@ const projectsData = [
     description: "My Portfolio Website built using Next.js",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/VisheshG8/Portfolio-Website-in-Next-js.",
     previewUrl: "/",
   },
   {
