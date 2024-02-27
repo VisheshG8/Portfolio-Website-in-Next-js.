@@ -65,7 +65,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          My journey as a developer started with a childhood passion for mobile apps. Always imagining new features and solutions, I was driven to create applications that solve problems and spread joy. That passion led me to become a full-stack developer, My expertise includes JavaScript, Python, React, React Native, MongoDB, SQL, HTML, CSS, and Git etc ... I&apos;m a quick learner with a working experience in a startup, I am eager to collaborate and bring innovative ideas to life.
+          My journey as a developer began with a deep fascination for the power of mobile apps. Driven by a desire to create engaging and innovative experiences, & a passion for creating customer-focused solutions, I&apos;ve explored everything from game design to full-stack development. My expertise includes JavaScript, Python, React, React Native, MongoDB, SQL, HTML, CSS, and Git. I thrive on identifying problems and envisioning creative mobile app solutions. .With experience working within a startup and my quick learning capability, I can adapt to new technologies and collaborate to bring ambitious ideas to life.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
