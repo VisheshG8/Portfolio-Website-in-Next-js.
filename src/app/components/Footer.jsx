@@ -11,7 +11,7 @@ const Footer = () => {
           width={100} // Specify the width of the image
           height={100} // Specify the height of the image
         />
-        <b style={{display:'flex', alignItems:'center', textAlign:'center'}}>All rights reserved.</b>
+        <b style={{display:'flex', alignItems:'center', textAlign:'center'}}> All rights reserved.</b>
       </div>
     </footer>
   );
