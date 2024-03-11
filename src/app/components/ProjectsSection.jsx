@@ -151,6 +151,19 @@ const projectsData = [
     previewUrl:
       "https://drive.google.com/file/d/1us5nmKdnIVR4TZiUdUvXfz_QH5eYKd0h/view?usp=sharing",
   },
+  {
+    id: 14,
+    title: "Music Player",
+    description:
+      "This is a simple but beautifully designed music player loaded with songs , which you can listen on the go , This music player supports background music play , notification controls.",
+    image: "/images/projects/14.png",
+    tag: ["All", "AR/VR"],
+    gitUrl:
+      "https://drive.google.com/file/d/1vFRQG96Y50abbeITjXMFhJ2A9scHVvrW/view?usp=sharing",
+    previewUrl:
+      "https://drive.google.com/file/d/1vFRQG96Y50abbeITjXMFhJ2A9scHVvrW/view?usp=sharing",
+  },
+
 ];
 
 const ProjectsSection = () => {
