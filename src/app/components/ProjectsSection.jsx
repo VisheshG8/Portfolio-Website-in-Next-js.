@@ -6,6 +6,15 @@ import { motion, useInView } from "framer-motion";
 
 const projectsData = [
   {
+    id: 0,
+    title: "Sportify",
+    description: "Sportify - Watch and Play along sports , Live Cricket Tournament Scores like IPL",
+    image: '/images/projects/0.png',
+    tag: ["All", "Web"],
+    gitUrl: "https://sportify-production.bubbleapps.io/version-test",
+    previewUrl: "https://sportify-production.bubbleapps.io/version-test",
+  },
+  {
     id: 1,
     title: "Portfolio Website",
     description: "My Portfolio Website built using Next.js",
@@ -162,7 +171,7 @@ const projectsData = [
       "https://drive.google.com/file/d/1vFRQG96Y50abbeITjXMFhJ2A9scHVvrW/view?usp=sharing",
     previewUrl:
       "https://drive.google.com/file/d/1vFRQG96Y50abbeITjXMFhJ2A9scHVvrW/view?usp=sharing",
-  },
+  }
 
 ];
 
