@@ -25,9 +25,3 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
-
-@media screen and (max-width: 420px) {
-  html {
-    width: 190%;
-  }
-}
