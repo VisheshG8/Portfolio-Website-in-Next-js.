@@ -6,6 +6,54 @@ import { motion, useInView } from "framer-motion";
 
 const projectsData = [
   {
+    id: 19,
+    title: "V-Guess - Word Hunt Game",
+    description:
+      "This is V-Guess, a Word Hunt Game where you guess words based on the Theme/Category you choose. You'll get instant feedback on each guess, helping you refine your next one. I know theory is boring, so go ahead and try the game—get hands-on with the practical!",
+    image: "/images/projects/19.png",
+    tag: ["All", "Mobile"],
+    gitUrl:
+      "https://play.google.com/store/apps/details?id=com.lazytrunk.guess.the.flag&pcampaignid=web_share",
+    previewUrl:
+      "https://v-guess.vercel.app/",
+  },
+  {
+    id: 18,
+    title: "Guess the Flag",
+    description:
+      "Are you ready to embark on an exciting journey around the globe? 'Guess the Flag' is the ultimate puzzle and trivia game for flag enthusiasts and trivia lovers alike. Challenge yourself to identify flags from various countries, putting your world knowledge and memory skills to the test.",
+    image: "/images/projects/18.png",
+    tag: ["All", "Mobile"],
+    gitUrl:
+      "https://play.google.com/store/apps/details?id=com.lazytrunk.guess.the.flag&pcampaignid=web_share",
+    previewUrl:
+      "https://play.google.com/store/apps/details?id=com.lazytrunk.guess.the.flag&pcampaignid=web_share",
+  },
+  {
+    id: 17,
+    title: "Guess in 5 Seconds",
+    description:
+      "This is a fun and exciting game to play with your friends and family. You have only 5 seconds to guess 3 things from a variety of categories. The fast-paced nature of the game will have you racing against the clock, leaving you breathless as you scramble to come up with answers. The thrill of the ticking timer keeps you on the edge of your seat, making every second count!",
+    image: "/images/projects/17.png",
+    tag: ["All", "Mobile"],
+    gitUrl:
+      "https://play.google.com/store/apps/details?id=com.lazytrunk.fivesecondrule&hl=en_IN",
+    previewUrl:
+      "https://play.google.com/store/apps/details?id=com.lazytrunk.fivesecondrule&hl=en_IN",
+  },
+  {
+    id: 16,
+    title: "Guess The Emoji",
+    description:
+      "Welcome to the fun Emoji Guessing Game, a Word Game. The perfect destination for emoji and word puzzle enthusiasts! If you love emojis & word games, this game is perfect for you. Decode the emojis, guess the words, and embark on an exciting brain-teasing adventure.",
+    image: "/images/projects/16.png",
+    tag: ["All", "Mobile"],
+    gitUrl:
+      "https://play.google.com/store/apps/details?id=com.lazytrunk.guess.the.emoji&pcampaignid=web_share",
+    previewUrl:
+      "https://play.google.com/store/apps/details?id=com.lazytrunk.guess.the.emoji&pcampaignid=web_share",
+  },
+  {
     id: 0,
     title: "Sportify",
     description: "Sportify - Watch and Play along sports , Live Cricket Tournament Scores like IPL",
@@ -161,24 +209,12 @@ const projectsData = [
       "https://drive.google.com/file/d/1us5nmKdnIVR4TZiUdUvXfz_QH5eYKd0h/view?usp=sharing",
   },
   {
-    id: 14,
-    title: "Music Player",
-    description:
-      "This is a simple but beautifully designed music player loaded with songs , which you can listen on the go , This music player supports background music play , notification controls.",
-    image: "/images/projects/14.png",
-    tag: ["All", "AR/VR"],
-    gitUrl:
-      "https://drive.google.com/file/d/1vFRQG96Y50abbeITjXMFhJ2A9scHVvrW/view?usp=sharing",
-    previewUrl:
-      "https://drive.google.com/file/d/1vFRQG96Y50abbeITjXMFhJ2A9scHVvrW/view?usp=sharing",
-  },
-  {
     id: 15,
     title: "Music Player",
     description:
       "This is a simple but beautifully designed music player loaded with songs , which you can listen on the go , This music player supports background music play , notification controls.",
     image: "/images/projects/14.png",
-    tag: ["All", "AR/VR"],
+    tag: ["All", "Mobile"],
     gitUrl:
       "https://drive.google.com/file/d/1vFRQG96Y50abbeITjXMFhJ2A9scHVvrW/view?usp=sharing",
     previewUrl:

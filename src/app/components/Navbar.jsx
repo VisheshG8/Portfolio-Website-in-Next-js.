@@ -25,7 +25,7 @@ const Navbar = () => {
   const [navbarOpen, setNavbarOpen] = useState(false);
 
   return (
-    <nav className="fixed mx-auto border top-0 left-0 right-0 z-10 bg-[#000000] bg-opacity-100" style={{borderLeft:0}}>
+    <nav className="fixed mx-auto border top-0 left-0 right-0 z-10 bg-[#000000] bg-opacity-100" style={{borderLeft:0,borderRight:0}}>
       <div className="flex container lg:py-4 flex-wrap items-center justify-between mx-auto px-4 py-2">
         <div>
         <Image
