@@ -11,7 +11,7 @@ const projectsData = [
     description:
       "This is V-Guess, a Word Hunt Game where you guess words based on the Theme/Category you choose. You'll get instant feedback on each guess, helping you refine your next one. I know theory is boring, so go ahead and try the game—get hands-on with the practical!",
     image: "/images/projects/19.png",
-    tag: ["All", "Mobile"],
+    tag: ["All", "Web"],
     gitUrl:
       "https://play.google.com/store/apps/details?id=com.lazytrunk.guess.the.flag&pcampaignid=web_share",
     previewUrl:
