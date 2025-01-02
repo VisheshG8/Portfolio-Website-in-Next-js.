@@ -11,6 +11,7 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <li>JavaScript / Typescript</li>
         <li>React Native</li>
+        <li>Flutter</li>
         <li>Firebase</li>
         <li>React</li>
         <li>Node.js</li>
@@ -29,6 +30,7 @@ const TAB_DATA = [
     id: "Experience and Education",
     content: (
       <ul className="list-disc pl-2">
+        <li>Lazy Trunk</li>
         <li>IoTfy Solutions Private Limited</li>
         <li>Ambedkar Institute of Technology</li>
       </ul>
@@ -67,7 +69,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          My journey as a developer began with a deep fascination for the power of mobile apps. Driven by a desire to create engaging and innovative experiences, & a passion for creating customer-focused solutions, I&apos;ve explored everything from game design to full-stack development. My experience includes React, React Native, JavaScript, MongoDB, Python, SQL, HTML, CSS, and Git ... etc. Through personal projects and exploration I thrive on identifying problems and envisioning creative web/mobile app solutions. With my quick learning capability and fast paced startup work experience, I can adapt to new technologies and collaborate to bring ambitious ideas to life.
+            My journey as a developer began with a deep fascination for the power of mobile apps. Driven by a desire to create engaging and innovative experiences, & a passion for creating customer-focused solutions, I&apos;ve explored everything from game design to full-stack development. My experience includes React, React Native, JavaScript, MongoDB, Python, SQL, HTML, CSS, and Git ... etc. Through personal projects and exploration I thrive on identifying problems and envisioning creative web/mobile app solutions. With my quick learning capability and fast paced startup work experience, I can adapt to new technologies and collaborate to bring ambitious ideas to life.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
